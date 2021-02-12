@@ -1,4 +1,5 @@
 ---
 title: "Mamadou Charging Phone"
 url: /monrovia/mamadou-charging-phone/
+shop: electronics
 ---
