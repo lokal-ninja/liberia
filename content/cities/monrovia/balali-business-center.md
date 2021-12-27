@@ -1,5 +1,5 @@
 ---
 title: "Balali Business Center"
 url: /monrovia/balali-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

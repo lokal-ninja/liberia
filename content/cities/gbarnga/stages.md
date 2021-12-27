@@ -1,5 +1,5 @@
 ---
 title: "Stages"
 url: /gbarnga/stages/
-shop: convenience
+shop: Lebensmittel
 ---

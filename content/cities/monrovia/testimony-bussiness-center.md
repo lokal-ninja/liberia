@@ -1,5 +1,5 @@
 ---
 title: "Testimony Bussiness Center"
 url: /monrovia/testimony-bussiness-center/
-shop: houseware
+shop: Haushaltsartikel
 ---

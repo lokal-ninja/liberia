@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /gueckedou/boutique-2/
-shop: convenience
+shop: Lebensmittel
 ---

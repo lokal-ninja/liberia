@@ -1,5 +1,5 @@
 ---
 title: "Saah Cooper Charging Booth"
 url: /foya-city/saah-cooper-charging-booth/
-shop: mobile phone
+shop: Handy
 ---

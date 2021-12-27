@@ -1,5 +1,5 @@
 ---
 title: "ACD2"
 url: /gbarnga/acd2/
-shop: clothes
+shop: Kleidung
 ---

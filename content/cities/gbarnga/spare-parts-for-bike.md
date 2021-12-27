@@ -1,5 +1,5 @@
 ---
 title: "Spare Parts for Bike"
 url: /gbarnga/spare-parts-for-bike/
-shop: car parts
+shop: Autoteile
 ---

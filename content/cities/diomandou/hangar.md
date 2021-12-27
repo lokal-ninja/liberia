@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /diomandou/hangar/
-shop: mall
+shop: Einkaufszentrum
 ---

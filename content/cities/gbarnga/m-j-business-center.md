@@ -1,5 +1,5 @@
 ---
 title: "M. J Business Center"
 url: /gbarnga/m-j-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

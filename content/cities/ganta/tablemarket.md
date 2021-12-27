@@ -1,5 +1,5 @@
 ---
 title: "Tablemarket"
 url: /ganta/tablemarket/
-shop: convenience
+shop: Lebensmittel
 ---

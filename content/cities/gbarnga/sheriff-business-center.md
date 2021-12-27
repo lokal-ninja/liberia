@@ -1,5 +1,5 @@
 ---
 title: "Sheriff Business Center"
 url: /gbarnga/sheriff-business-center/
-shop: butcher
+shop: Metzgerei
 ---

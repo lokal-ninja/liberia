@@ -1,6 +1,6 @@
 ---
 title: Teldou
 url: /teldou/
-latitude: 
-longitude: 
+latitude: 8.527
+longitude: -10.235
 ---

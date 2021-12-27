@@ -1,6 +1,6 @@
 ---
 title: Tiene
 url: /tiene/
-latitude: 6.967510000000001
-longitude: -11.312790000000001
+latitude: 6.964
+longitude: -11.318
 ---

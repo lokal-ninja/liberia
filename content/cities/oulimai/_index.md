@@ -1,6 +1,6 @@
 ---
 title: Oulimaï
 url: /oulimai/
-latitude: 
-longitude: 
+latitude: 7.815
+longitude: -9.37
 ---

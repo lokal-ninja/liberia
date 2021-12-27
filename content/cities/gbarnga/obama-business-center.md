@@ -1,5 +1,5 @@
 ---
 title: "Obama Business Center"
 url: /gbarnga/obama-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

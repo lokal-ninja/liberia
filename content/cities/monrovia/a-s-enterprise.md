@@ -1,5 +1,5 @@
 ---
 title: "A.S. Enterprise"
 url: /monrovia/a-s-enterprise/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kromah Businesses Center"
 url: /gbarnga/kromah-businesses-center/
-shop: furniture
+shop: Möbel
 ---

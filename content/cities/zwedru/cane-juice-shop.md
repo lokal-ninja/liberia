@@ -1,5 +1,5 @@
 ---
 title: "Cane Juice Shop"
 url: /zwedru/cane-juice-shop/
-shop: kiosk
+shop: Kiosk
 ---

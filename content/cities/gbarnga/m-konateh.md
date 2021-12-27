@@ -1,5 +1,5 @@
 ---
 title: "M. Konateh"
 url: /gbarnga/m-konateh/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Voinjama
 url: /voinjama/
-latitude: 8.422419
-longitude: -9.7525832
+latitude: 8.423
+longitude: -9.752
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bamballa
 url: /bamballa/
-latitude: 
-longitude: 
+latitude: 7.221
+longitude: -11.176
 ---

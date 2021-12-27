@@ -1,5 +1,5 @@
 ---
 title: "Wings Inc."
 url: /ganta/wings-inc/
-shop: hardware
+shop: Eisenwaren
 ---

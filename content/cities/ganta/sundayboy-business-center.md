@@ -1,5 +1,5 @@
 ---
 title: "Sundayboy Business Center"
 url: /ganta/sundayboy-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

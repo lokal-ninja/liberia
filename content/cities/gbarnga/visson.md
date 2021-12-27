@@ -1,5 +1,5 @@
 ---
 title: "Visson"
 url: /gbarnga/visson/
-shop: beauty
+shop: Kosmetik
 ---

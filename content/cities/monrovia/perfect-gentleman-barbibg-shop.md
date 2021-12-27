@@ -1,5 +1,5 @@
 ---
 title: "Perfect Gentleman Barbibg Shop"
 url: /monrovia/perfect-gentleman-barbibg-shop/
-shop: hairdresser
+shop: Friseur
 ---

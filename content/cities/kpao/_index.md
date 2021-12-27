@@ -1,6 +1,6 @@
 ---
 title: Kpao
 url: /kpao/
-latitude: 
-longitude: 
+latitude: 7.539
+longitude: -8.772
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vahun
 url: /vahun/
-latitude: 8.0626718
-longitude: -10.5043904
+latitude: 8.063
+longitude: -10.506
 ---

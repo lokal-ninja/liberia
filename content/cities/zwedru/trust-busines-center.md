@@ -1,5 +1,5 @@
 ---
 title: "Trust Busines Center"
 url: /zwedru/trust-busines-center/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

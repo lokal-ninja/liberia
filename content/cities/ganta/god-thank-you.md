@@ -1,5 +1,5 @@
 ---
 title: "God Thank You."
 url: /ganta/god-thank-you/
-shop: kiosk
+shop: Kiosk
 ---

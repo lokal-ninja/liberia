@@ -1,5 +1,5 @@
 ---
 title: "Abu Jalloh Business Center"
 url: /zwedru/abu-jalloh-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teta Business Center"
 url: /monrovia/teta-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

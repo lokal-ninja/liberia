@@ -1,5 +1,5 @@
 ---
 title: "Video Player Station"
 url: /ganta/video-player-station/
-shop: video
+shop: Videothek
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
 url: /gueckedou/garage-moto/
-shop: car repair
+shop: Autowerkstatt
 ---

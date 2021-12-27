@@ -1,5 +1,5 @@
 ---
 title: "Patrick Business Center"
 url: /ganta/patrick-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

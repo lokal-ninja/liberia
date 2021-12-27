@@ -1,5 +1,5 @@
 ---
 title: "Global Electronic Center"
 url: /ganta/global-electronic-center/
-shop: electronics
+shop: Elektronik
 ---

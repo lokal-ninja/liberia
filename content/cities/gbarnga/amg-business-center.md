@@ -1,5 +1,5 @@
 ---
 title: "AMG Business Center"
 url: /gbarnga/amg-business-center/
-shop: convenience
+shop: Lebensmittel
 ---
