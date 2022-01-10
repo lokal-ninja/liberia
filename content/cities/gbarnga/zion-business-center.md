@@ -1,5 +1,5 @@
 ---
 title: "Zion Business Center"
 url: /gbarnga/zion-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

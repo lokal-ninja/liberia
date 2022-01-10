@@ -1,5 +1,5 @@
 ---
 title: "FCB Charging Booth"
 url: /ganta/fcb-charging-booth/
-shop: Elektronik
+shop: electronics
 ---

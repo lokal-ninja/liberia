@@ -1,5 +1,5 @@
 ---
 title: "Destiny Child Business Center"
 url: /zwedru/destiny-child-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AB Tea Shop"
 url: /zwedru/ab-tea-shop-2/
-shop: Tee
+shop: tea
 ---

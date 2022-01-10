@@ -1,5 +1,5 @@
 ---
 title: "SMS Business Center"
 url: /monrovia/sms-business-center/
-shop: Dorfladen
+shop: general
 ---

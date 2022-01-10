@@ -1,5 +1,5 @@
 ---
 title: "M. K. S"
 url: /monrovia/m-k-s/
-shop: Kleidung
+shop: clothes
 ---

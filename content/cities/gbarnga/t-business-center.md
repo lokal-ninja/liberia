@@ -1,5 +1,5 @@
 ---
 title: "T. Business Center"
 url: /gbarnga/t-business-center/
-shop: Eisenwaren
+shop: hardware
 ---

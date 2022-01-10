@@ -1,5 +1,5 @@
 ---
 title: "Happy Family"
 url: /ganta/happy-family/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gju"
 url: /gueckedou/gju/
-shop: Lebensmittel
+shop: convenience
 ---

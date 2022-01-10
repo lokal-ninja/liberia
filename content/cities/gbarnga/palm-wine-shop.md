@@ -1,5 +1,5 @@
 ---
 title: "Palm Wine Shop"
 url: /gbarnga/palm-wine-shop/
-shop: Wein
+shop: wine
 ---

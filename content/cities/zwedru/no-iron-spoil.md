@@ -1,5 +1,5 @@
 ---
 title: "No Iron Spoil"
 url: /zwedru/no-iron-spoil/
-shop: Kiosk
+shop: kiosk
 ---

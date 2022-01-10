@@ -1,5 +1,5 @@
 ---
 title: "Caroline Frozen Food Center"
 url: /ganta/caroline-frozen-food-center/
-shop: Tiefkühl
+shop: frozen food
 ---

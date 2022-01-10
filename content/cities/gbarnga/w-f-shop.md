@@ -1,5 +1,5 @@
 ---
 title: "W. F. Shop"
 url: /gbarnga/w-f-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esther Coldline"
 url: /gbarnga/esther-coldline/
-shop: Schneiderei
+shop: tailor
 ---

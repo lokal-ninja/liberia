@@ -1,5 +1,5 @@
 ---
 title: "Quaiquai Grage"
 url: /gbarnga/quaiquai-grage/
-shop: Autowerkstatt
+shop: car repair
 ---

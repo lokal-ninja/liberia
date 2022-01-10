@@ -1,5 +1,5 @@
 ---
 title: "Bridge Way Garage"
 url: /gbarnga/bridge-way-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

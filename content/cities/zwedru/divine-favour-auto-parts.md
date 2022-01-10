@@ -1,5 +1,5 @@
 ---
 title: "Divine Favour Auto Parts"
 url: /zwedru/divine-favour-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

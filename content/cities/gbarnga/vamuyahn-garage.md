@@ -1,5 +1,5 @@
 ---
 title: "Vamuyahn Garage"
 url: /gbarnga/vamuyahn-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

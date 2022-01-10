@@ -1,5 +1,5 @@
 ---
 title: "Mohammed Sayon Business Center"
 url: /monrovia/mohammed-sayon-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

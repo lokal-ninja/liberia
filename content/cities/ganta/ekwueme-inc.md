@@ -1,5 +1,5 @@
 ---
 title: "Ekwueme Inc."
 url: /ganta/ekwueme-inc/
-shop: Lebensmittel
+shop: convenience
 ---

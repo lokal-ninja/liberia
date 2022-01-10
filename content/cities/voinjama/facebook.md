@@ -1,5 +1,5 @@
 ---
 title: "Facebook"
 url: /voinjama/facebook/
-shop: Lebensmittel
+shop: convenience
 ---

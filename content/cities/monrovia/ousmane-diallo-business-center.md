@@ -1,5 +1,5 @@
 ---
 title: "Ousmane Diallo Business Center"
 url: /monrovia/ousmane-diallo-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

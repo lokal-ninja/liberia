@@ -1,5 +1,5 @@
 ---
 title: "M RJ"
 url: /ganta/m-rj/
-shop: Elektronik
+shop: electronics
 ---

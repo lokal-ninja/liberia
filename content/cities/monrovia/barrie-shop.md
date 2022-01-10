@@ -1,5 +1,5 @@
 ---
 title: "Barrie Shop"
 url: /monrovia/barrie-shop/
-shop: Lebensmittel
+shop: convenience
 ---

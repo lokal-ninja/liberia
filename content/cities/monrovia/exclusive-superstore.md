@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Superstore"
 url: /monrovia/exclusive-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

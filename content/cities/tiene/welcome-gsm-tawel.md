@@ -1,5 +1,5 @@
 ---
 title: "Welcome Gsm Tawel"
 url: /tiene/welcome-gsm-tawel/
-shop: Handy
+shop: mobile phone
 ---

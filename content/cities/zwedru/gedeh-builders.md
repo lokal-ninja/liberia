@@ -1,5 +1,5 @@
 ---
 title: "Gedeh Builders"
 url: /zwedru/gedeh-builders/
-shop: Eisenwaren
+shop: hardware
 ---

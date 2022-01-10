@@ -1,5 +1,5 @@
 ---
 title: "Nimba Feeling"
 url: /ganta/nimba-feeling/
-shop: Eisenwaren
+shop: hardware
 ---

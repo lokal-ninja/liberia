@@ -1,5 +1,5 @@
 ---
 title: "Gompa Funeral Service Inc"
 url: /ganta/gompa-funeral-service-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

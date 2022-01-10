@@ -1,5 +1,5 @@
 ---
 title: "Connect Business Center"
 url: /monrovia/connect-business-center/
-shop: Elektronik
+shop: electronics
 ---

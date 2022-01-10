@@ -1,5 +1,5 @@
 ---
 title: "Isata Sherif Business Center"
 url: /monrovia/isata-sherif-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

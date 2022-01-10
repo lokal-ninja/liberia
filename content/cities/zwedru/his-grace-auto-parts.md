@@ -1,5 +1,5 @@
 ---
 title: "His Grace Auto Parts"
 url: /zwedru/his-grace-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

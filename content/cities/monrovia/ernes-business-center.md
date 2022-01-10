@@ -1,5 +1,5 @@
 ---
 title: "Ernes Business Center"
 url: /monrovia/ernes-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

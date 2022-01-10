@@ -1,5 +1,5 @@
 ---
 title: "Beauty Home"
 url: /ganta/beauty-home/
-shop: Kleidung
+shop: clothes
 ---

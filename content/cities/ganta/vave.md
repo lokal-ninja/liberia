@@ -1,5 +1,5 @@
 ---
 title: "Vave"
 url: /ganta/vave/
-shop: Autowerkstatt
+shop: car repair
 ---

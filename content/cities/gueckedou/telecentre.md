@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /gueckedou/telecentre/
-shop: Handy
+shop: mobile phone
 ---

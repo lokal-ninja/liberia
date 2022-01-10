@@ -1,5 +1,5 @@
 ---
 title: "Mussa Keita Garage"
 url: /gbarnga/mussa-keita-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

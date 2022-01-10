@@ -1,5 +1,5 @@
 ---
 title: "PYNEK"
 url: /gbarnga/pynek/
-shop: Lebensmittel
+shop: convenience
 ---

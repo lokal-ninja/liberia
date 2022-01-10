@@ -1,5 +1,5 @@
 ---
 title: "Leela"
 url: /gbarnga/leela/
-shop: Lebensmittel
+shop: convenience
 ---

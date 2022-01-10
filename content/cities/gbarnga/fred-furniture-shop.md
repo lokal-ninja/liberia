@@ -1,5 +1,5 @@
 ---
 title: "Fred Furniture Shop"
 url: /gbarnga/fred-furniture-shop/
-shop: Möbel
+shop: furniture
 ---

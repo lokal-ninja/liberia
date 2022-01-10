@@ -1,5 +1,5 @@
 ---
 title: "Artist Alliance"
 url: /zwedru/artist-alliance/
-shop: Kunst
+shop: art
 ---

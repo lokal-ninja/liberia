@@ -1,5 +1,5 @@
 ---
 title: "Empire cosmetics store"
 url: /monrovia/empire-cosmetics-store/
-shop: Kosmetik
+shop: beauty
 ---

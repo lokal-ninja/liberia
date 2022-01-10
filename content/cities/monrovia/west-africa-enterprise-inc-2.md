@@ -1,5 +1,5 @@
 ---
 title: "West Africa Enterprise Inc"
 url: /monrovia/west-africa-enterprise-inc-2/
-shop: Tiefkühl
+shop: frozen food
 ---

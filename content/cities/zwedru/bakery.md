@@ -1,5 +1,5 @@
 ---
 title: "Bakery"
 url: /zwedru/bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpentry Shop"
 url: /gbarnga/carpentry-shop/
-shop: Kunst
+shop: art
 ---

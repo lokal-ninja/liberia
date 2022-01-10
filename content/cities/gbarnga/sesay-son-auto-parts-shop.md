@@ -1,5 +1,5 @@
 ---
 title: "Sesay Son Auto Parts Shop"
 url: /gbarnga/sesay-son-auto-parts-shop/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ttutu Workshop"
 url: /gbarnga/ttutu-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park It Better"
 url: /ganta/park-it-better/
-shop: Eisenwaren
+shop: hardware
 ---

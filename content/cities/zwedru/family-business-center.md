@@ -1,5 +1,5 @@
 ---
 title: "Family Business Center"
 url: /zwedru/family-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

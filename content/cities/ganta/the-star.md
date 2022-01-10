@@ -1,5 +1,5 @@
 ---
 title: "The Star"
 url: /ganta/the-star/
-shop: Lebensmittel
+shop: convenience
 ---

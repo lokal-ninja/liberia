@@ -1,5 +1,5 @@
 ---
 title: "Janvion"
 url: /ganta/janvion/
-shop: Möbel
+shop: furniture
 ---

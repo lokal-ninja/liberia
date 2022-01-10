@@ -1,5 +1,5 @@
 ---
 title: "Lappers"
 url: /gbarnga/lappers/
-shop: Lebensmittel
+shop: convenience
 ---

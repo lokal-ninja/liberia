@@ -1,5 +1,5 @@
 ---
 title: "Flocee Inn"
 url: /zwedru/flocee-inn/
-shop: Lebensmittel
+shop: convenience
 ---

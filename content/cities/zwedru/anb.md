@@ -1,5 +1,5 @@
 ---
 title: "ANB"
 url: /zwedru/anb/
-shop: Lebensmittel
+shop: convenience
 ---

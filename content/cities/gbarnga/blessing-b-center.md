@@ -1,5 +1,5 @@
 ---
 title: "Blessing B Center"
 url: /gbarnga/blessing-b-center/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IT Technical Services"
 url: /gbarnga/it-technical-services/
-shop: Elektronik
+shop: electronics
 ---

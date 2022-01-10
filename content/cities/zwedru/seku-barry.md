@@ -1,5 +1,5 @@
 ---
 title: "Seku Barry"
 url: /zwedru/seku-barry/
-shop: Lebensmittel
+shop: convenience
 ---

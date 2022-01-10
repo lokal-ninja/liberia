@@ -1,5 +1,5 @@
 ---
 title: "Kermee's"
 url: /belefanai/kermees/
-shop: Eisenwaren
+shop: hardware
 ---

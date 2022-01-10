@@ -1,5 +1,5 @@
 ---
 title: "Boubacar T K Balde"
 url: /zwedru/boubacar-t-k-balde/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "General House"
 url: /ganta/general-house/
-shop: Elektronik
+shop: electronics
 ---

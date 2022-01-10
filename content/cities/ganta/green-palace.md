@@ -1,5 +1,5 @@
 ---
 title: "Green Palace"
 url: /ganta/green-palace/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Augustine Repair Shop"
 url: /ganta/augustine-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

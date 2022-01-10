@@ -1,5 +1,5 @@
 ---
 title: "Joyce Fashion Boutique"
 url: /monrovia/joyce-fashion-boutique/
-shop: Modehaus
+shop: boutique
 ---

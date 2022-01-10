@@ -1,5 +1,5 @@
 ---
 title: "Elijah Chea Shop"
 url: /zwedru/elijah-chea-shop/
-shop: Tee
+shop: tea
 ---

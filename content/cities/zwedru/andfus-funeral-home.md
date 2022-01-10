@@ -1,5 +1,5 @@
 ---
 title: "ANDFUS Funeral Home"
 url: /zwedru/andfus-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

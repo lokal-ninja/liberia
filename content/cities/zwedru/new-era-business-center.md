@@ -1,5 +1,5 @@
 ---
 title: "New Era Business Center"
 url: /zwedru/new-era-business-center/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Clothes Shops"
 url: /foya-city/country-clothes-shops/
-shop: Kleidung
+shop: clothes
 ---

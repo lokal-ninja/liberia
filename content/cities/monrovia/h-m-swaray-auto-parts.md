@@ -1,5 +1,5 @@
 ---
 title: "H.M Swaray Auto Parts"
 url: /monrovia/h-m-swaray-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

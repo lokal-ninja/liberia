@@ -1,5 +1,5 @@
 ---
 title: "Under The Tree"
 url: /bolahun/under-the-tree/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prince Bike Garage"
 url: /zwedru/prince-bike-garage/
-shop: Motorrad
+shop: motorcycle
 ---

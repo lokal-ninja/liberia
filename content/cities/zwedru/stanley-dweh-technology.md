@@ -1,5 +1,5 @@
 ---
 title: "Stanley Dweh Technology"
 url: /zwedru/stanley-dweh-technology/
-shop: Elektronik
+shop: electronics
 ---

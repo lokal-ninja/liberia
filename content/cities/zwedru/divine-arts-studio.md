@@ -1,5 +1,5 @@
 ---
 title: "Divine Arts Studio"
 url: /zwedru/divine-arts-studio/
-shop: Kunst
+shop: art
 ---

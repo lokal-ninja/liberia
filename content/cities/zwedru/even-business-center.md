@@ -1,5 +1,5 @@
 ---
 title: "Even Business Center"
 url: /zwedru/even-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

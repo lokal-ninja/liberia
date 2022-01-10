@@ -1,5 +1,5 @@
 ---
 title: "David Business Center"
 url: /zwedru/david-business-center/
-shop: Elektronik
+shop: electronics
 ---

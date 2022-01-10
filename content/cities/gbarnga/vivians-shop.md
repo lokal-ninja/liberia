@@ -1,5 +1,5 @@
 ---
 title: "Vivian's Shop"
 url: /gbarnga/vivians-shop/
-shop: Kiosk
+shop: kiosk
 ---

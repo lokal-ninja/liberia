@@ -1,5 +1,5 @@
 ---
 title: "Alfred Business Center"
 url: /zwedru/alfred-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

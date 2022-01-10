@@ -1,5 +1,5 @@
 ---
 title: "Club Serengeti Whole Sales"
 url: /gbarnga/club-serengeti-whole-sales/
-shop: Getränke
+shop: beverages
 ---

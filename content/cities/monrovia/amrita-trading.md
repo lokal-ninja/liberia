@@ -1,5 +1,5 @@
 ---
 title: "Amrita Trading"
 url: /monrovia/amrita-trading/
-shop: Kramladen
+shop: variety store
 ---

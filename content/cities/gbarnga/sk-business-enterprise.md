@@ -1,5 +1,5 @@
 ---
 title: "SK Business Enterprise"
 url: /gbarnga/sk-business-enterprise/
-shop: Motorrad
+shop: motorcycle
 ---

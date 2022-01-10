@@ -1,5 +1,5 @@
 ---
 title: "Ma Tete Business Center"
 url: /gbarnga/ma-tete-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

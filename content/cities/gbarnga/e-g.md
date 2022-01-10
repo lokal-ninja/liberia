@@ -1,5 +1,5 @@
 ---
 title: "E. G"
 url: /gbarnga/e-g/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pot Factory"
 url: /ganta/pot-factory/
-shop: Basteln
+shop: craft
 ---

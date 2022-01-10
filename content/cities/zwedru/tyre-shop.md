@@ -1,5 +1,5 @@
 ---
 title: "Tyre Shop"
 url: /zwedru/tyre-shop/
-shop: Autowerkstatt
+shop: car repair
 ---
