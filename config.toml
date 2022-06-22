@@ -1,4 +1,4 @@
-baseURL = "https://lr.shoogle.net/liberia"
+baseURL = "https://lr.shoogle.net/liberia/"
 languageCode = "en"
 title = "Liberia"
 theme = "ln-base"
