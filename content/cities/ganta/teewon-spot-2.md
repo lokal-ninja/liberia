@@ -1,5 +1,5 @@
 ---
 title: "Teewon Spot"
-url: /ganta/teewon-spot-2/
+url: /ganta/teewon-spot/
 shop: convenience
 ---

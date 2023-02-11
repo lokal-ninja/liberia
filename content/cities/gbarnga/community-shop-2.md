@@ -1,5 +1,5 @@
 ---
 title: "Community Shop"
-url: /gbarnga/community-shop-2/
+url: /gbarnga/community-shop/
 shop: convenience
 ---

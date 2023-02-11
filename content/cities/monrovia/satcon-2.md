@@ -1,5 +1,5 @@
 ---
 title: "Satcon"
-url: /monrovia/satcon-2/
+url: /monrovia/satcon/
 shop: electronics
 ---

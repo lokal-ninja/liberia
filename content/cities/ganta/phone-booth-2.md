@@ -1,5 +1,5 @@
 ---
 title: "Phone Booth"
-url: /ganta/phone-booth-2/
+url: /ganta/phone-booth/
 shop: electronics
 ---

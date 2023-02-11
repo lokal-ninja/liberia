@@ -1,5 +1,5 @@
 ---
-title: "ABC Jobco One Business Center"
+title: "ABC Jobco-One Business Center"
 url: /zwedru/abc-jobco-one-business-center/
-shop: convenience
+shop: hardware
 ---

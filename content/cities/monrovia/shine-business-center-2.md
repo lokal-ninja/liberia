@@ -1,5 +1,5 @@
 ---
 title: "Shine Business Center"
-url: /monrovia/shine-business-center-2/
+url: /monrovia/shine-business-center/
 shop: beauty
 ---

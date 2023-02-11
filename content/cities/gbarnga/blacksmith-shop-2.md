@@ -1,5 +1,5 @@
 ---
 title: "Blacksmith Shop"
-url: /gbarnga/blacksmith-shop-2/
+url: /gbarnga/blacksmith-shop/
 shop: trade
 ---

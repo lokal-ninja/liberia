@@ -1,5 +1,5 @@
 ---
 title: "Atelier de couture"
-url: /diomandou/atelier-de-couture-3/
+url: /diomandou/atelier-de-couture/
 shop: tailor
 ---

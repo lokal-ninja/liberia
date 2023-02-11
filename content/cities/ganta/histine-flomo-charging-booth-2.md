@@ -1,5 +1,5 @@
 ---
-title: "Histine Flomo Charging Booth"
-url: /ganta/histine-flomo-charging-booth-2/
+title: "Histine Flomo Charging booth"
+url: /ganta/histine-flomo-charging-booth/
 shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Table Market"
-url: /ganta/table-market-2/
+url: /ganta/table-market/
 shop: convenience
 ---
