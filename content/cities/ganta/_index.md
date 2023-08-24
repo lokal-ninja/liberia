@@ -1,6 +1,6 @@
 ---
 title: Ganta
 url: /ganta/
-latitude: 7.232
-longitude: -8.987
+latitude: 7.207
+longitude: -8.979
 ---
