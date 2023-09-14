@@ -1,5 +1,5 @@
 ---
 title: "Woodwork Shop"
-url: /zwedru/woodwork-shop/
+url: /zwedru/woodwork-shop-moses-p-harris-street/
 shop: trade
 ---
