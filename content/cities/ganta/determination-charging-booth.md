@@ -1,5 +1,5 @@
 ---
 title: "Determination Charging Booth"
 url: /ganta/determination-charging-booth/
-shop: electronics
+shop: mobile phone
 ---
