@@ -1,5 +1,5 @@
 ---
 title: "Lanban Business Center"
 url: /monrovia/lanban-business-center/
-shop: convenience
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "JBQ Business Center"
+title: "JBQ BUSINESS CENTER"
 url: /monrovia/jbq-business-center/
-shop: convenience
+shop: variety store
 ---
