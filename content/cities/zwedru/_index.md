@@ -1,6 +1,6 @@
 ---
 title: Zwedru
 url: /zwedru/
-latitude: 6.068
-longitude: -8.142
+latitude: 6.084
+longitude: -8.133
 ---
