@@ -1,5 +1,5 @@
 ---
-title: "E.M. Business Center"
+title: "E.M Business Center"
 url: /monrovia/e-m-business-center/
-shop: convenience
+shop: general
 ---
