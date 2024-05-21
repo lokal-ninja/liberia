@@ -1,6 +1,6 @@
 ---
 title: Jendema
 url: /jendema/
-latitude: 7.019
-longitude: -11.382
+latitude: 7.023
+longitude: -11.387
 ---
