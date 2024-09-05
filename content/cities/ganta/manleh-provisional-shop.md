@@ -1,5 +1,5 @@
 ---
 title: "Manleh Provisional Shop"
 url: /ganta/manleh-provisional-shop/
-shop: convenience
+shop: Lebensmittel
 ---

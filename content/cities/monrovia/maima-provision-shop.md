@@ -1,5 +1,5 @@
 ---
 title: "Maima Provision Shop"
 url: /monrovia/maima-provision-shop/
-shop: convenience
+shop: Lebensmittel
 ---

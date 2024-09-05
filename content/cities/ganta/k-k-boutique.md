@@ -1,5 +1,5 @@
 ---
 title: "K. K. Boutique"
 url: /ganta/k-k-boutique/
-shop: clothes
+shop: Kleidung
 ---

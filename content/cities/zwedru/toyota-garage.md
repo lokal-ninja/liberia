@@ -1,5 +1,5 @@
 ---
 title: "Toyota Garage"
 url: /zwedru/toyota-garage/
-shop: car
+shop: Autohaus
 ---

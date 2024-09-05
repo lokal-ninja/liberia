@@ -1,5 +1,5 @@
 ---
 title: "No bad day"
 url: /monrovia/no-bad-day/
-shop: kiosk
+shop: Kiosk
 ---

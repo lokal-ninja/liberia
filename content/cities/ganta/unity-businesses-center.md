@@ -1,5 +1,5 @@
 ---
 title: "Unity Businesses Center"
 url: /ganta/unity-businesses-center/
-shop: convenience
+shop: Lebensmittel
 ---

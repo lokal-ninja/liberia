@@ -1,5 +1,5 @@
 ---
 title: "Souleyman Jallo Business Center"
 url: /zwedru/souleyman-jallo-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

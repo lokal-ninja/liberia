@@ -1,5 +1,5 @@
 ---
 title: "Juwo A. Hubbard"
 url: /monrovia/juwo-a-hubbard/
-shop: hardware
+shop: Eisenwaren
 ---

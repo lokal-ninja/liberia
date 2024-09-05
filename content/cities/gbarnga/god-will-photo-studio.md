@@ -1,5 +1,5 @@
 ---
 title: "God Will Photo Studio"
 url: /gbarnga/god-will-photo-studio/
-shop: photo
+shop: Foto
 ---

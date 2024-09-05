@@ -1,5 +1,5 @@
 ---
 title: "Glay's Business"
 url: /ganta/glays-business/
-shop: convenience
+shop: Lebensmittel
 ---

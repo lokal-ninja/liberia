@@ -1,5 +1,5 @@
 ---
 title: "Faith Business Center"
 url: /gbarnga/faith-business-center/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

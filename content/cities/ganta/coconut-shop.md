@@ -1,5 +1,5 @@
 ---
 title: "Coconut Shop"
 url: /ganta/coconut-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

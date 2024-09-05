@@ -1,5 +1,5 @@
 ---
 title: "Choice Business Center"
 url: /zwedru/choice-business-center/
-shop: shoes
+shop: Schuhe
 ---

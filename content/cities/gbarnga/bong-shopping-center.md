@@ -1,5 +1,5 @@
 ---
 title: "Bong Shopping Center"
 url: /gbarnga/bong-shopping-center/
-shop: convenience
+shop: Lebensmittel
 ---

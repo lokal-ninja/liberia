@@ -1,5 +1,5 @@
 ---
 title: "Sow Business Center"
 url: /monrovia/sow-business-center/
-shop: electronics
+shop: Elektronik
 ---

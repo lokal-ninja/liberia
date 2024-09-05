@@ -1,5 +1,5 @@
 ---
 title: "Shine Business Center"
 url: /monrovia/shine-business-center/
-shop: beauty
+shop: Kosmetik
 ---

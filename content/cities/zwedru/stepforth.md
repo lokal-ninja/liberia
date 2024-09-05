@@ -1,5 +1,5 @@
 ---
 title: "Stepforth"
 url: /zwedru/stepforth/
-shop: convenience
+shop: Lebensmittel
 ---

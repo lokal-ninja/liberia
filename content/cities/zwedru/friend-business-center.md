@@ -1,5 +1,5 @@
 ---
 title: "Friend Business Center"
 url: /zwedru/friend-business-center/
-shop: video
+shop: Videothek
 ---

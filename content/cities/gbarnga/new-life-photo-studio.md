@@ -1,5 +1,5 @@
 ---
 title: "New Life Photo Studio"
 url: /gbarnga/new-life-photo-studio/
-shop: photo
+shop: Foto
 ---

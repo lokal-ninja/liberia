@@ -1,5 +1,5 @@
 ---
 title: "Marie"
 url: /ganta/marie/
-shop: tailor
+shop: Schneiderei
 ---

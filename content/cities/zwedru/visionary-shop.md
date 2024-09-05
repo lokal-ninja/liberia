@@ -1,5 +1,5 @@
 ---
 title: "Visionary Shop"
 url: /zwedru/visionary-shop/
-shop: convenience
+shop: Lebensmittel
 ---

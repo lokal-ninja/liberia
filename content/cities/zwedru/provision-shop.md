@@ -1,5 +1,5 @@
 ---
 title: "Provision Shop"
 url: /zwedru/provision-shop/
-shop: convenience
+shop: Lebensmittel
 ---

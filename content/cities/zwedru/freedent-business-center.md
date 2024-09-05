@@ -1,5 +1,5 @@
 ---
 title: "Freedent Business Center"
 url: /zwedru/freedent-business-center/
-shop: clothes
+shop: Kleidung
 ---

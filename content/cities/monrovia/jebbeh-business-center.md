@@ -1,5 +1,5 @@
 ---
 title: "Jebbeh Business Center"
 url: /monrovia/jebbeh-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yale Business Center"
 url: /monrovia/yale-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

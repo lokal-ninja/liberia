@@ -1,5 +1,5 @@
 ---
 title: "Linson Business Center"
 url: /gbarnga/linson-business-center/
-shop: beverages
+shop: Getränke
 ---

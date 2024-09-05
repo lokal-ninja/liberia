@@ -1,5 +1,5 @@
 ---
 title: "Amos Garage"
 url: /sanniquellie/amos-garage/
-shop: motorcycle
+shop: Motorrad
 ---

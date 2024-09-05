@@ -1,5 +1,5 @@
 ---
 title: "Hennah Business Center"
 url: /monrovia/hennah-business-center/
-shop: electronics
+shop: Elektronik
 ---

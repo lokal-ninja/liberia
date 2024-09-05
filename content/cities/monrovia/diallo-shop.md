@@ -1,5 +1,5 @@
 ---
 title: "Diallo Shop"
 url: /monrovia/diallo-shop/
-shop: convenience
+shop: Lebensmittel
 ---

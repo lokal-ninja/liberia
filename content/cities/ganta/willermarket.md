@@ -1,5 +1,5 @@
 ---
 title: "Willermarket"
 url: /ganta/willermarket/
-shop: convenience
+shop: Lebensmittel
 ---

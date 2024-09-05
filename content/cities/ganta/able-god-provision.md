@@ -1,5 +1,5 @@
 ---
 title: "Able God Provision"
 url: /ganta/able-god-provision/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E. D Business Center"
 url: /gbarnga/e-d-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

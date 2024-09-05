@@ -1,5 +1,5 @@
 ---
 title: "God's Will Business Center"
 url: /ganta/gods-will-business-center/
-shop: convenience
+shop: Lebensmittel
 ---

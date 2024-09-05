@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /diomandou/boutique/
-shop: convenience
+shop: Lebensmittel
 ---
