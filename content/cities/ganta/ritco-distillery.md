@@ -1,5 +1,5 @@
 ---
 title: "RITCO Distillery"
 url: /ganta/ritco-distillery/
-shop: Spirituosen
+shop: alcohol
 ---

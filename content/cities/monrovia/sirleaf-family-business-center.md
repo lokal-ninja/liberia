@@ -1,5 +1,5 @@
 ---
 title: "Sirleaf family Business Center"
 url: /monrovia/sirleaf-family-business-center/
-shop: Haushaltsartikel
+shop: houseware
 ---

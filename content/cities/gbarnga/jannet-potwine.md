@@ -1,5 +1,5 @@
 ---
 title: "Jannet Potwine"
 url: /gbarnga/jannet-potwine/
-shop: Spirituosen
+shop: alcohol
 ---

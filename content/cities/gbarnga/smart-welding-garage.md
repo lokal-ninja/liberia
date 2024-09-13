@@ -1,5 +1,5 @@
 ---
 title: "Smart Welding Garage"
 url: /gbarnga/smart-welding-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

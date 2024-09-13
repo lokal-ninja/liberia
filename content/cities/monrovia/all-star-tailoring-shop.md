@@ -1,5 +1,5 @@
 ---
 title: "All Star Tailoring Shop"
 url: /monrovia/all-star-tailoring-shop/
-shop: Schneiderei
+shop: tailor
 ---

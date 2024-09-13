@@ -1,5 +1,5 @@
 ---
 title: "God Blessing Barber Shop"
 url: /ganta/god-blessing-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

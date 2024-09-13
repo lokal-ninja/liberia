@@ -1,5 +1,5 @@
 ---
 title: "God Favor"
 url: /ganta/god-favor/
-shop: Lebensmittel
+shop: convenience
 ---

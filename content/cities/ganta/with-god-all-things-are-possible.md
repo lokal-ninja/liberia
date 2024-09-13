@@ -1,5 +1,5 @@
 ---
-title: "With God All Things Are Possible"
+title: "With God All things Are Possible"
 url: /ganta/with-god-all-things-are-possible/
-shop: Lebensmittel
+shop: convenience
 ---

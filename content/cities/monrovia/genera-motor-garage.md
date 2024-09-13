@@ -1,5 +1,5 @@
 ---
 title: "Genera Motor Garage"
 url: /monrovia/genera-motor-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

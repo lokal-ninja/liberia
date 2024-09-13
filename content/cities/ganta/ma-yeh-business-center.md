@@ -1,5 +1,5 @@
 ---
 title: "Ma. Yeh Business Center"
 url: /ganta/ma-yeh-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

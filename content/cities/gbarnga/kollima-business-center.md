@@ -1,5 +1,5 @@
 ---
 title: "Kollima Business Center"
 url: /gbarnga/kollima-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

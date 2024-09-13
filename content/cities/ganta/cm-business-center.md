@@ -1,5 +1,5 @@
 ---
 title: "CM Business Center"
 url: /ganta/cm-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

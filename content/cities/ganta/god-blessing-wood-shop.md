@@ -1,5 +1,5 @@
 ---
 title: "God Blessing Wood Shop"
 url: /ganta/god-blessing-wood-shop/
-shop: Möbel
+shop: furniture
 ---

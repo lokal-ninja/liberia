@@ -1,5 +1,5 @@
 ---
 title: "David Shop"
 url: /ganta/david-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

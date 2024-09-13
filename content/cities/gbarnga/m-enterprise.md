@@ -1,5 +1,5 @@
 ---
 title: "M. Enterprise"
 url: /gbarnga/m-enterprise/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christ Business Center"
 url: /monrovia/christ-business-center/
-shop: Modehaus
+shop: boutique
 ---

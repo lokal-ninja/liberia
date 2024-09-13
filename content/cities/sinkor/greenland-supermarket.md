@@ -1,5 +1,5 @@
 ---
 title: "GreenLand supermarket"
 url: /sinkor/greenland-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

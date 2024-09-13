@@ -1,5 +1,5 @@
 ---
 title: "Abdullah Provision Shop"
 url: /monrovia/abdullah-provision-shop/
-shop: Lebensmittel
+shop: convenience
 ---

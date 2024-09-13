@@ -1,5 +1,5 @@
 ---
 title: "Barbing Shop"
 url: /gbarnga/barbing-shop/
-shop: Friseur
+shop: hairdresser
 ---

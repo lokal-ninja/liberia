@@ -1,5 +1,5 @@
 ---
 title: "Spy Tech"
 url: /monrovia/spy-tech-un-drive/
-shop: Elektronik
+shop: electronics
 ---

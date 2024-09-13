@@ -1,5 +1,5 @@
 ---
 title: "Koffi Garrage"
 url: /zwedru/koffi-garrage/
-shop: Autowerkstatt
+shop: car repair
 ---

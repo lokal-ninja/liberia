@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel S. Say Booth"
 url: /sanniquellie/emmanuel-s-say-booth/
-shop: Handy
+shop: mobile phone
 ---

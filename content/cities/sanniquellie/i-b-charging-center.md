@@ -1,5 +1,5 @@
 ---
 title: "I B Charging Center"
 url: /sanniquellie/i-b-charging-center/
-shop: Handy
+shop: mobile phone
 ---

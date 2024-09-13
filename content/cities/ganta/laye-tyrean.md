@@ -1,5 +1,5 @@
 ---
 title: "Laye Tyrean"
 url: /ganta/laye-tyrean/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sempia Business Center"
 url: /monrovia/sempia-business-center/
-shop: Einkaufszentrum
+shop: mall
 ---

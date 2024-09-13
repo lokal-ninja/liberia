@@ -1,5 +1,5 @@
 ---
 title: "His Goodness Business Center"
 url: /ganta/his-goodness-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

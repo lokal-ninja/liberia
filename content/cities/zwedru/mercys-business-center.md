@@ -1,5 +1,5 @@
 ---
 title: "Mercy's Business Center"
 url: /zwedru/mercys-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

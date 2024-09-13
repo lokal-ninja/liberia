@@ -1,5 +1,5 @@
 ---
 title: "Josephine Suah Shop"
 url: /ganta/josephine-suah-shop/
-shop: Lebensmittel
+shop: convenience
 ---

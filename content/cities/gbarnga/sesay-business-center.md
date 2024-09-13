@@ -1,5 +1,5 @@
 ---
 title: "Sesay Business Center"
 url: /gbarnga/sesay-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

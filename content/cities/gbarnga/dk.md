@@ -1,5 +1,5 @@
 ---
 title: "DK"
 url: /gbarnga/dk/
-shop: Kleidung
+shop: clothes
 ---

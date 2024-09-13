@@ -1,5 +1,5 @@
 ---
 title: "Pro Artist Link"
 url: /ganta/pro-artist-link/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liberia Marketing Association"
 url: /monrovia/liberia-marketing-association/
-shop: Dorfladen
+shop: general
 ---

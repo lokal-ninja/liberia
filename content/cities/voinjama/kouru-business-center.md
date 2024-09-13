@@ -1,5 +1,5 @@
 ---
 title: "Kouru Business Center"
 url: /voinjama/kouru-business-center/
-shop: Elektronik
+shop: electronics
 ---

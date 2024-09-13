@@ -1,5 +1,5 @@
 ---
 title: "Jamaco Ent."
 url: /monrovia/jamaco-ent/
-shop: Kosmetik
+shop: beauty
 ---

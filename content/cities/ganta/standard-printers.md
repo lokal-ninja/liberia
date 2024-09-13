@@ -1,5 +1,5 @@
 ---
 title: "Standard Printers"
 url: /ganta/standard-printers/
-shop: Kopieren
+shop: copyshop
 ---

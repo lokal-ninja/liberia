@@ -1,5 +1,5 @@
 ---
 title: "Jalloh Tea Shop"
 url: /gbarnga/jalloh-tea-shop/
-shop: Tee
+shop: tea
 ---

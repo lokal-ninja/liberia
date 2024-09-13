@@ -1,5 +1,5 @@
 ---
 title: "Miss Keith Tyre Shop"
 url: /gbarnga/miss-keith-tyre-shop/
-shop: Reifen
+shop: tyres
 ---

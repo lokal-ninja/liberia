@@ -1,5 +1,5 @@
 ---
 title: "Uncle Steve"
 url: /ganta/uncle-steve/
-shop: Lebensmittel
+shop: convenience
 ---

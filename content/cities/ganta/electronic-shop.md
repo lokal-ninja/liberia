@@ -1,5 +1,5 @@
 ---
 title: "Electronic Shop"
 url: /ganta/electronic-shop/
-shop: Elektronik
+shop: electronics
 ---

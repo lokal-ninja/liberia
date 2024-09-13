@@ -1,5 +1,5 @@
 ---
 title: "Kukujumuku"
 url: /monrovia/kukujumuku/
-shop: Lebensmittel
+shop: convenience
 ---

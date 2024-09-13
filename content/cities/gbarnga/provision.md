@@ -1,5 +1,5 @@
 ---
 title: "Provision"
 url: /gbarnga/provision/
-shop: Lebensmittel
+shop: convenience
 ---

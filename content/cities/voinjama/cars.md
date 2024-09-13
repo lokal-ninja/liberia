@@ -1,5 +1,5 @@
 ---
 title: "Car's"
 url: /voinjama/cars/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abu's Market Center"
 url: /monrovia/abus-market-center/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Success Business Center"
 url: /gbarnga/success-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

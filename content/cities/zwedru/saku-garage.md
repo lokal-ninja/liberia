@@ -1,5 +1,5 @@
 ---
 title: "Saku Garage"
 url: /zwedru/saku-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

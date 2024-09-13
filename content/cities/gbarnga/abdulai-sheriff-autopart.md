@@ -1,5 +1,5 @@
 ---
 title: "Abdulai Sheriff Autopart"
 url: /gbarnga/abdulai-sheriff-autopart/
-shop: Autoteile
+shop: car parts
 ---

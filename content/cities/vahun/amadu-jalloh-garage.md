@@ -1,5 +1,5 @@
 ---
 title: "Amadu Jalloh Garage"
 url: /vahun/amadu-jalloh-garage/
-shop: Motorrad
+shop: motorcycle
 ---

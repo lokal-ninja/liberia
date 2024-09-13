@@ -1,5 +1,5 @@
 ---
 title: "Moma's"
 url: /gbarnga/momas/
-shop: Möbel
+shop: furniture
 ---

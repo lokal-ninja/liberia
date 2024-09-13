@@ -1,5 +1,5 @@
 ---
 title: "Karwah Business Center"
 url: /monrovia/karwah-business-center/
-shop: Friseur
+shop: hairdresser
 ---

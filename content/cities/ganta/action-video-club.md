@@ -1,5 +1,5 @@
 ---
 title: "Action Video Club"
 url: /ganta/action-video-club/
-shop: Videothek
+shop: video
 ---

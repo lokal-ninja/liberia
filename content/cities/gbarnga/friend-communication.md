@@ -1,5 +1,5 @@
 ---
 title: "Friend Communication"
 url: /gbarnga/friend-communication/
-shop: Elektronik
+shop: electronics
 ---

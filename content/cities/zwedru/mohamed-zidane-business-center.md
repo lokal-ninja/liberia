@@ -1,5 +1,5 @@
 ---
 title: "Mohamed Zidane Business Center"
 url: /zwedru/mohamed-zidane-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

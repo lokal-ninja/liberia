@@ -1,5 +1,5 @@
 ---
 title: "Sis Jessi Business Center"
 url: /ganta/sis-jessi-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

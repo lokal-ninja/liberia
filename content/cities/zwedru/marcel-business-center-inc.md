@@ -1,5 +1,5 @@
 ---
 title: "Marcel Business Center Inc."
 url: /zwedru/marcel-business-center-inc/
-shop: Lebensmittel
+shop: convenience
 ---

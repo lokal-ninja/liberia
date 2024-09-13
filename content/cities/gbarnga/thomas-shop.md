@@ -1,5 +1,5 @@
 ---
 title: "Thomas Shop"
 url: /gbarnga/thomas-shop/
-shop: Lebensmittel
+shop: convenience
 ---

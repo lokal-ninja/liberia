@@ -1,5 +1,5 @@
 ---
 title: "Ma Korto Near Balan"
 url: /gbarnga/ma-korto-near-balan/
-shop: Lebensmittel
+shop: convenience
 ---

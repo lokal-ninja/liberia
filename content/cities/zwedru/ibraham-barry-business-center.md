@@ -1,5 +1,5 @@
 ---
 title: "Ibraham Barry Business center"
 url: /zwedru/ibraham-barry-business-center/
-shop: Lebensmittel
+shop: convenience
 ---

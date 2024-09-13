@@ -1,5 +1,5 @@
 ---
 title: "Solution Garage"
 url: /zwedru/solution-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

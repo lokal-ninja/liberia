@@ -1,5 +1,5 @@
 ---
 title: "Deco Trading Center"
 url: /monrovia/deco-trading-center/
-shop: Lebensmittel
+shop: convenience
 ---
