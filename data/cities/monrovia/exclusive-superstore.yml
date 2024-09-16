@@ -1,11 +1,11 @@
 id: 134906026
-type: way
+type: node
 latitude: 6.29001
 longitude: -10.77528
 postcode: "00231"
 city: Monrovia
-street: "19th Street"
-housenumber: 
+street: 19th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
