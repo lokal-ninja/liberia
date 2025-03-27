@@ -1,6 +1,6 @@
 ---
 title: Gbarnga
 url: /gbarnga/
-latitude: 7.041
-longitude: -9.544
+latitude: 6.997
+longitude: -9.473
 ---
