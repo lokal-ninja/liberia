@@ -1,5 +1,5 @@
 ---
 title: "Tea Shop"
-url: /gbarnga/tea-shop-lofa-road/
+url: /gbarnga/tea-shop-2/
 shop: tea
 ---
