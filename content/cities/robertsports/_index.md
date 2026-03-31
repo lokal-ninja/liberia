@@ -1,6 +1,6 @@
 ---
 title: Robertsports
 url: /robertsports/
-latitude: 6.758
-longitude: -11.353
+latitude: 6.755
+longitude: -11.361
 ---
